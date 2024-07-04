@@ -62,7 +62,7 @@
   <a href="https://www.facebook.com/DiegoClown/about_details?locale=es_LA">
     <img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/>
   </a>
-<a href="dyewoc@gmail.com@gmail.com?subject=Hello%20Sameer">
+<a href="https://mail.google.com/mail/u/0/#inbox">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>&nbsp;
 <!--horizontal divider(gradiant)-->
