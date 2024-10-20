@@ -21,7 +21,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I am a PHP developer, I study Software Engineering, I am an ADSO Technologist, I have taken courses and I want to continue learning.</h2></summary>
+    <summary><h2 style="display: inline-block">I am a JAVA developer, I study Software Engineering, I am an ADSO Technologist, I have taken courses and I want to continue learning.</h2></summary>
   </ul>
 </div>
 
