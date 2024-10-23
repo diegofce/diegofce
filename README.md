@@ -35,7 +35,7 @@
 
 ✔  🔭 &nbsp; I’m currently working on Web Development. <br>
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects. <br>
-✔  💬 Ask me about Java, HTML, CSS, PHP, React, Angular. <br>
+✔  💬 Ask me about Java, HTML, CSS, React, Angular. <br>
 ✔  📚 &nbsp; I am advancing software engineering and learning a lot every day.<br>
 ✔ ⚡ &nbsp; I am happy, I like working as a team, I like to learn new things every day.😉
 
